@@ -21,4 +21,4 @@ Este é um site básico desenvolvido utilizando apenas **HTML**. O projeto tem c
 GitHub: https://github.com/JorgeH-Tec   
 Email: jorge.paiv4@gmail.com  
 
-⭐ Obrigado por visitar! Este projeto representa parte do meu processo de aprendizado com HTML, CSS e JavaScript, simulando uma navegação entre páginas independentes de maneira organizada e funcional.  
+⭐ Obrigado por visitar! Este projeto representa parte do meu processo de aprendizado com HTML em uma página web, de maneira organizada e funcional.  
