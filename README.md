@@ -18,7 +18,7 @@ Este é um site básico desenvolvido utilizando apenas **HTML**. O projeto tem c
 
 ## 📫 Contato  
 
-Email: jorge.paiv4@gmail.com   
+**Email:** [jorge.paiv4@gmail.com](mailto:jorge.paiv4@gmail.com)   
 **Linkedin:** [https://www.linkedin.com/in/jorge-henrique-16b567263/](https://www.linkedin.com/in/jorge-henrique-16b567263/)   
 
 
