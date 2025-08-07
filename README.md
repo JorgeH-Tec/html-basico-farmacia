@@ -18,7 +18,8 @@ Este é um site básico desenvolvido utilizando apenas **HTML**. O projeto tem c
 
 ## 📫 Contato  
 
-GitHub: https://github.com/JorgeH-Tec   
-Email: jorge.paiv4@gmail.com  
+Email: jorge.paiv4@gmail.com   
+**Linkedin:** [https://www.linkedin.com/in/jorge-henrique-16b567263/](https://www.linkedin.com/in/jorge-henrique-16b567263/)   
+
 
 ⭐ Obrigado por visitar! Este projeto representa parte do meu processo de aprendizado com HTML em uma página web, de maneira organizada e funcional.  
